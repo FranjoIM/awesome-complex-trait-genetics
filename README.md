@@ -185,6 +185,10 @@ How can you add your tool? via a pull request, if you dont know what that is, re
 - [DPR](https://github.com/biostatpzeng/DPR) DPR is a Bayesian PRS method that uses a non-parametric dirichlet process prior
   
 - [VIPRS](https://github.com/shz9/viprs) VIPRS is a fast Bayesian PRS method that uses Variational Inference techniques to efficiently approximate the posterior for the effect sizes. The python package provides utilities for performing inference as well as computing polygenic scores and common evaluation metrics used in PRS settings.
+  
+- [PRS-CS](https://github.com/getian107/PRScs) is a Python based command line tool that infers posterior SNP effect sizes under continuous shrinkage (CS) priors using GWAS summary statistics and an external LD reference panel.
+
+- [PRS-CSx](https://github.com/getian107/PRScsx) is a Python based command line tool that integrates GWAS summary statistics and external LD reference panels from multiple populations to improve cross-population polygenic prediction. Posterior SNP effect sizes are inferred under coupled continuous shrinkage (CS) priors across populations.
 
 ## Pharmacogenomics
 
